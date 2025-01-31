@@ -15,4 +15,4 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.himanshushekhar.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.himanshushekhar.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.himanshushekhar.com-blue?style=flat-square&logo=google-chrome"></a>
